@@ -1,4 +1,3 @@
-# DSA
 # DSA Practice Repository
 
 This repo contains all the code I've written while learning Data Structures and Algorithms.  
